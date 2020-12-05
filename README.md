@@ -34,7 +34,8 @@ O trabalho utilizou-se de dados extraídos do repositório de dados eleitorais d
 
 Para a realização da análise dos dados utilizou-se:
 
-* Python 3.0 ![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/python_logo.png)
+* **Python** 
+![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/python_logo.png)
 * Matplotlib
 * Pandas
 * Jupyter Notebook
