@@ -30,6 +30,8 @@ Este trabalho pedagógico tem como objetivo realizar uma análise geral do perfi
 * Idade 
 * Candidatos à reeleição
 
+## Fonte:
+
 O trabalho utilizou-se de dados extraídos do repositório de dados eleitorais do [Tribunal Superior Eleitoral - TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).
 
 * [**Link para download do arquivo CSV**](https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip)
@@ -53,3 +55,16 @@ Para a realização da análise dos dados foram utilizadas as seguintes ferramen
 * [**Jupyter Notebook**](https://jupyter.org/)
 
 ![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/jupyter_logo.png)
+
+## Copnclusão:
+
+Através desta análise pode-se concluir que maioria dos candidatos:
+
+* são do gênero **MASCULINO**
+* possuem grau de instrução **ENSINO MÉDIO COMPLETO**
+* são **CASADOS**
+* são da cor/raça **BRANCA**
+* são dos seguintes partidos:
+..* **PSL**
+..* **DEMOCRATAS**
+..* **PSDB**
