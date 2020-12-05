@@ -32,12 +32,22 @@ Este trabalho pedagógico tem como objetivo realizar uma análise geral do perfi
 
 O trabalho utilizou-se de dados extraídos do repositório de dados eleitorais do [Tribunal Superior Eleitoral - TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).
 
-Para a realização da análise dos dados utilizou-se:
+## Ferramentas:
+
+Para a realização da análise dos dados foram utilizadas as seguintes ferramentas:
 
 * **Python** 
 
 ![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/python_logo.png)
 
-* Matplotlib
-* Pandas
-* Jupyter Notebook
+* **Matplotlib**
+
+![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/matplotlib_logo.png)
+
+* **Pandas**
+
+![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/pandas_logo.png)
+
+* **Jupyter Notebook**
+
+![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/jupyter_logo.png)
