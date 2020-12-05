@@ -56,7 +56,7 @@ Para a realização da análise dos dados foram utilizadas as seguintes ferramen
 
 ![](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/jupyter_logo.png)
 
-## Copnclusão:
+## Conclusão:
 
 Através desta análise pode-se concluir que a maior parte dos candidatos:
 
