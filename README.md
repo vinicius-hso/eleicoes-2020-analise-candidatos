@@ -10,7 +10,7 @@
 
 **Disciplina**: Algoritmos e Lógica de Programação
 
-**Professor**: Fernando Masanori
+**Professor**: [Fernando Masanori](https://github.com/fmasanori)
 
 **Instituição**: FATEC - Prof. Jessen Vidal - São José dos Campos
 
