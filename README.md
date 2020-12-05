@@ -1,7 +1,7 @@
 # Eleições 2020 - Análise Geral do Perfil dos Candidatos de SP
-
+---
 ## Trabalho de Análise de Dados Públicos
-
+---
 **Curso**: Análise e Desenvolvimento de Sistemas
 
 **Turma**: B
