@@ -30,6 +30,8 @@ Este trabalho pedagógico tem como objetivo realizar uma análise geral do perfi
 * Idade 
 * Candidatos à reeleição
 
+Confira os resultados [Análise Geral do Perfil dos Candidatos de SP](https://github.com/vinicius-hso/eleicoes-2020-analise-candidatos-SP/blob/main/ipynb/Candidatos%20de%20SP%20-%20Elei%C3%A7%C3%B5es%202020.ipynb)
+
 ## Fonte:
 
 O trabalho utilizou-se de dados extraídos do repositório de dados eleitorais do [Tribunal Superior Eleitoral - TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).
