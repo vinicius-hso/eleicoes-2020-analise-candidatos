@@ -58,13 +58,20 @@ Para a realização da análise dos dados foram utilizadas as seguintes ferramen
 
 ## Copnclusão:
 
-Através desta análise pode-se concluir que maioria dos candidatos:
+Através desta análise pode-se concluir que a maior parte dos candidatos:
 
 * são do gênero **MASCULINO**
 * possuem grau de instrução **ENSINO MÉDIO COMPLETO**
 * são **CASADOS**
 * são da cor/raça **BRANCA**
-* são dos seguintes partidos:
-..* **PSL**
-..* **DEMOCRATAS**
-..* **PSDB**
+* possuem como ocupação: **OUTROS**, **SERVIDOR PÚBLICO MUNICIPAL** e **EMPRESÁRIO**
+* são dos seguintes partidos: **PSL**, **DEMOCRATAS** e **MDB**
+* tem idade entre **40** e **50** anos
+
+Pode-se concluir também que:
+
+* **17,63%** não possuem bens a declarar
+* **6.762** candidatos estão inaptos, sendo a maior partde deles dos seguintes partidos: **PSL**, **MDB** e **PSDB**
+* **3,58%** candidataram-se à reeleição, sendo a maior parte deles dos seguintes partidos: **PSDB**, **DEMOCRATAS** e **MDB**
+* são nascidos no estado de **São Paulo**, **Minas Gerais** e **Paraná**
+
