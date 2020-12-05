@@ -14,7 +14,7 @@
 
 **Instituição**: FATEC - Prof. Jessen Vidal - São José dos Campos
 
-**Alunos: [Mariana de Souza Assis](https://github.com/mariana299) e [Vinícius Henrique dos Santos de Oliveira](https://github.com/vinicius-hso)
+**Alunos**: [Mariana de Souza Assis](https://github.com/mariana299) e [Vinícius Henrique dos Santos de Oliveira](https://github.com/vinicius-hso)
 
 ## Objetivo:
 
@@ -30,3 +30,11 @@ Este trabalho pedagógico tem como objetivo realizar uma análise geral do perfi
 * Idade 
 * Candidatos à reeleição
 
+O trabalho utilizou-se de dados extraídos do repositório de dados eleitorais do [Tribunal Superior Eleitoral - TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).
+
+Para a realização da análise dos dados utilizou-se:
+
+* Python 3.0
+* Matplotlib
+* Pandas
+* Jupyter Notebook
