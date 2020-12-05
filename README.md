@@ -32,6 +32,8 @@ Este trabalho pedagógico tem como objetivo realizar uma análise geral do perfi
 
 O trabalho utilizou-se de dados extraídos do repositório de dados eleitorais do [Tribunal Superior Eleitoral - TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).
 
+* [**Link para download do arquivo CSV**](https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip)
+
 ## Ferramentas:
 
 Para a realização da análise dos dados foram utilizadas as seguintes ferramentas:
