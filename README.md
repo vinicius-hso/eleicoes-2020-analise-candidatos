@@ -71,7 +71,7 @@ Através desta análise pode-se concluir que a maior parte dos candidatos:
 Pode-se concluir também que:
 
 * **17,63%** não possuem bens a declarar
-* **6.762** candidatos estão inaptos, sendo a maior partde deles dos seguintes partidos: **PSL**, **MDB** e **PSDB**
-* **3,58%** candidataram-se à reeleição, sendo a maior parte deles dos seguintes partidos: **PSDB**, **DEMOCRATAS** e **MDB**
+* **6.762** candidatos estão inaptos, sendo a maior parte deles dos partidos: **PSL**, **MDB** e **PSDB**
+* **3,58%** candidataram-se à reeleição, sendo a maior parte deles dos partidos: **PSDB**, **DEMOCRATAS** e **MDB**
 * são nascidos no estado de **São Paulo**, **Minas Gerais** e **Paraná**
 
